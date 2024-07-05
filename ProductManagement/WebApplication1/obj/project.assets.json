@@ -2194,11 +2194,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\MS .NET\\Solution1\\WebApplication1\\Products.csproj",
+      "projectUniqueName": "F:\\MS .NET\\.NET\\ProductManagement\\WebApplication1\\Products.csproj",
       "projectName": "Products",
-      "projectPath": "F:\\MS .NET\\Solution1\\WebApplication1\\Products.csproj",
+      "projectPath": "F:\\MS .NET\\.NET\\ProductManagement\\WebApplication1\\Products.csproj",
       "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-      "outputPath": "F:\\MS .NET\\Solution1\\WebApplication1\\obj\\",
+      "outputPath": "F:\\MS .NET\\.NET\\ProductManagement\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
