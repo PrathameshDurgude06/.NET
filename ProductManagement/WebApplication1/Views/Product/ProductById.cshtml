@@ -1,0 +1,13 @@
+﻿@using BOL;
+
+@{
+    Product product = (Product)ViewData["xyz"];
+    <h3>ID: @product.Pid</h3>
+    <h3>NAme: @product.Pname</h3>
+    <h3>Quantity: @product.Qty</h3>
+    <h3>Price: @product.Price</h3>
+}
+<form action="/product/prductbyid" method="post">
+<input type="text" name="pid"/><br/>
+<input type="submit" value="Submit" />
+</form>
