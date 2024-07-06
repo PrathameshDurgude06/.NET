@@ -29,9 +29,22 @@ namespace Products.Controllers
         [HttpPost]
         public IActionResult ProductById(int pid)
         {
+            //Product product = _productService.GetById(pid);
+            //ViewData["catalog1"] = product;
+            //return View();
+
             Product product = _productService.GetById(pid);
-            ViewData["xyz"] = product;
-            return View();
+
+            if (product != null)
+            {
+                ViewData["catalog1"] = product;
+                return View();
+            }
+            else
+            {
+                // Handle the case when the product is not found
+                return NotFound();
+            }
         }
 
         [HttpGet]

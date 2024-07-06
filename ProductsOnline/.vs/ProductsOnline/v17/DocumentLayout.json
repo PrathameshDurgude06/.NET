@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\xyz\\CDAC\\CDAC IACSD\\MSnett\\lab\\revision\\ProductsOnline\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B6FC6F-BC82-4CE0-95DC-1A9D766E6FA2}|ProductsOnline\\ProductsOnline.csproj|g:\\xyz\\cdac\\cdac iacsd\\msnett\\lab\\revision\\productsonline\\productsonline\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B6FC6F-BC82-4CE0-95DC-1A9D766E6FA2}|ProductsOnline\\ProductsOnline.csproj|solutionrelative:productsonline\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B6FC6F-BC82-4CE0-95DC-1A9D766E6FA2}|ProductsOnline\\ProductsOnline.csproj|g:\\xyz\\cdac\\cdac iacsd\\msnett\\lab\\revision\\productsonline\\productsonline\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B6FC6F-BC82-4CE0-95DC-1A9D766E6FA2}|ProductsOnline\\ProductsOnline.csproj|solutionrelative:productsonline\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B6FC6F-BC82-4CE0-95DC-1A9D766E6FA2}|ProductsOnline\\ProductsOnline.csproj|g:\\xyz\\cdac\\cdac iacsd\\msnett\\lab\\revision\\productsonline\\productsonline\\repositories\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B6FC6F-BC82-4CE0-95DC-1A9D766E6FA2}|ProductsOnline\\ProductsOnline.csproj|solutionrelative:productsonline\\repositories\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B6FC6F-BC82-4CE0-95DC-1A9D766E6FA2}|ProductsOnline\\ProductsOnline.csproj|g:\\xyz\\cdac\\cdac iacsd\\msnett\\lab\\revision\\productsonline\\productsonline\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B6FC6F-BC82-4CE0-95DC-1A9D766E6FA2}|ProductsOnline\\ProductsOnline.csproj|solutionrelative:productsonline\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B6FC6F-BC82-4CE0-95DC-1A9D766E6FA2}|ProductsOnline\\ProductsOnline.csproj|g:\\xyz\\cdac\\cdac iacsd\\msnett\\lab\\revision\\productsonline\\productsonline\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B6FC6F-BC82-4CE0-95DC-1A9D766E6FA2}|ProductsOnline\\ProductsOnline.csproj|solutionrelative:productsonline\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7B6FC6F-BC82-4CE0-95DC-1A9D766E6FA2}|ProductsOnline\\ProductsOnline.csproj|g:\\xyz\\cdac\\cdac iacsd\\msnett\\lab\\revision\\productsonline\\productsonline\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B6FC6F-BC82-4CE0-95DC-1A9D766E6FA2}|ProductsOnline\\ProductsOnline.csproj|solutionrelative:productsonline\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "G:\\xyz\\CDAC\\CDAC IACSD\\MSnett\\lab\\revision\\ProductsOnline\\ProductsOnline\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductsOnline\\Controllers\\ProductsController.cs",
+              "ToolTip": "G:\\xyz\\CDAC\\CDAC IACSD\\MSnett\\lab\\revision\\ProductsOnline\\ProductsOnline\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProductsOnline\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T10:32:35.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DBManager.cs",
+              "DocumentMoniker": "G:\\xyz\\CDAC\\CDAC IACSD\\MSnett\\lab\\revision\\ProductsOnline\\ProductsOnline\\Repositories\\DBManager.cs",
+              "RelativeDocumentMoniker": "ProductsOnline\\Repositories\\DBManager.cs",
+              "ToolTip": "G:\\xyz\\CDAC\\CDAC IACSD\\MSnett\\lab\\revision\\ProductsOnline\\ProductsOnline\\Repositories\\DBManager.cs",
+              "RelativeToolTip": "ProductsOnline\\Repositories\\DBManager.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T10:29:17.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "G:\\xyz\\CDAC\\CDAC IACSD\\MSnett\\lab\\revision\\ProductsOnline\\ProductsOnline\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductsOnline\\Models\\Product.cs",
+              "ToolTip": "G:\\xyz\\CDAC\\CDAC IACSD\\MSnett\\lab\\revision\\ProductsOnline\\ProductsOnline\\Models\\Product.cs",
+              "RelativeToolTip": "ProductsOnline\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T10:28:46.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "G:\\xyz\\CDAC\\CDAC IACSD\\MSnett\\lab\\revision\\ProductsOnline\\ProductsOnline\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProductsOnline\\Controllers\\HomeController.cs",
+              "ToolTip": "G:\\xyz\\CDAC\\CDAC IACSD\\MSnett\\lab\\revision\\ProductsOnline\\ProductsOnline\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProductsOnline\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T10:28:13.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "G:\\xyz\\CDAC\\CDAC IACSD\\MSnett\\lab\\revision\\ProductsOnline\\ProductsOnline\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "ProductsOnline\\Services\\ProductService.cs",
+              "ToolTip": "G:\\xyz\\CDAC\\CDAC IACSD\\MSnett\\lab\\revision\\ProductsOnline\\ProductsOnline\\Services\\ProductService.cs",
+              "RelativeToolTip": "ProductsOnline\\Services\\ProductService.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T10:26:24.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "G:\\xyz\\CDAC\\CDAC IACSD\\MSnett\\lab\\revision\\ProductsOnline\\ProductsOnline\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "ProductsOnline\\Services\\IProductService.cs",
+              "ToolTip": "G:\\xyz\\CDAC\\CDAC IACSD\\MSnett\\lab\\revision\\ProductsOnline\\ProductsOnline\\Services\\IProductService.cs",
+              "RelativeToolTip": "ProductsOnline\\Services\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T10:26:14.485Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

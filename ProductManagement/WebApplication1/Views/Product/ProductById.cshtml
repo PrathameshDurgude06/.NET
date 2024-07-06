@@ -1,13 +1,28 @@
 ﻿@using BOL;
 
 @{
-    Product product = (Product)ViewData["xyz"];
-    <h3>ID: @product.Pid</h3>
-    <h3>NAme: @product.Pname</h3>
-    <h3>Quantity: @product.Qty</h3>
-    <h3>Price: @product.Price</h3>
+    <html>
+    <head>
+        <title>Product Details</title>
+    </head>
+    <body>
+        <form asp-action="ProductById" method="post">
+            <label for="productId">Enter Product ID:</label>
+            <input type="text" id="productId" name="id" />
+            <button type="submit">Get Product</button>
+        </form>
+
+        @if (ViewData["catalog1"] != null)
+        {
+            var products = (Product)ViewData["catalog1"];
+            <ul>
+                <li>Title: @products.Pid</li>
+                <li>Description: @products.Pname</li>
+                <li>Unit Price: @products.Qty</li>
+                <li>Quantity: @products.Price</li>
+            </ul>
+        }
+    </body>
+    </html>
 }
-<form action="/product/prductbyid" method="post">
-<input type="text" name="pid"/><br/>
-<input type="submit" value="Submit" />
-</form>
+

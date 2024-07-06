@@ -1,0 +1,35 @@
+﻿@model IEnumerable<ProductsOnline.Models.Product>
+
+<h2>Product List</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Unit Price</th>
+            <th>Image</th>
+            <th>Quantity</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.Id</td>
+                <td>@product.Title</td>
+                <td>@product.Description</td>
+                <td>@product.UnitPrice</td>
+                <td><img src="@product.ImageUrl" alt="Product Image" width="50" /></td>
+                <td>@product.Quantity</td>
+                <td>
+                    <a href="@Url.Action("Details", "Products", new { id = product.Id })">Details</a> |
+                    <a href="@Url.Action("Edit", "Products", new { id = product.Id })">Edit</a> |
+                    <a href="@Url.Action("Delete", "Products", new { id = product.Id })">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

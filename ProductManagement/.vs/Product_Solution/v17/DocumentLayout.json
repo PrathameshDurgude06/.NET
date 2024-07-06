@@ -3,24 +3,40 @@
   "WorkspaceRootPath": "F:\\MS .NET\\.NET\\ProductManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E702F9CD-5070-4113-8777-5B02E9C06DAA}|WebApplication1\\Products.csproj|f:\\ms .net\\.net\\productmanagement\\webapplication1\\repositories\\collectioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E702F9CD-5070-4113-8777-5B02E9C06DAA}|WebApplication1\\Products.csproj|solutionrelative:webapplication1\\repositories\\collectioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E702F9CD-5070-4113-8777-5B02E9C06DAA}|WebApplication1\\Products.csproj|f:\\ms .net\\.net\\productmanagement\\webapplication1\\repositories\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E702F9CD-5070-4113-8777-5B02E9C06DAA}|WebApplication1\\Products.csproj|solutionrelative:webapplication1\\repositories\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E702F9CD-5070-4113-8777-5B02E9C06DAA}|WebApplication1\\Products.csproj|f:\\ms .net\\.net\\productmanagement\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E702F9CD-5070-4113-8777-5B02E9C06DAA}|WebApplication1\\Products.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E702F9CD-5070-4113-8777-5B02E9C06DAA}|WebApplication1\\Products.csproj|f:\\ms .net\\.net\\productmanagement\\webapplication1\\views\\product\\productbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E702F9CD-5070-4113-8777-5B02E9C06DAA}|WebApplication1\\Products.csproj|solutionrelative:webapplication1\\views\\product\\productbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E702F9CD-5070-4113-8777-5B02E9C06DAA}|WebApplication1\\Products.csproj|f:\\ms .net\\.net\\productmanagement\\webapplication1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E702F9CD-5070-4113-8777-5B02E9C06DAA}|WebApplication1\\Products.csproj|solutionrelative:webapplication1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E702F9CD-5070-4113-8777-5B02E9C06DAA}|WebApplication1\\Products.csproj|f:\\ms .net\\.net\\productmanagement\\webapplication1\\repositories\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E702F9CD-5070-4113-8777-5B02E9C06DAA}|WebApplication1\\Products.csproj|solutionrelative:webapplication1\\repositories\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E702F9CD-5070-4113-8777-5B02E9C06DAA}|WebApplication1\\Products.csproj|f:\\ms .net\\.net\\productmanagement\\webapplication1\\repositories\\collectioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E702F9CD-5070-4113-8777-5B02E9C06DAA}|WebApplication1\\Products.csproj|solutionrelative:webapplication1\\repositories\\collectioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E702F9CD-5070-4113-8777-5B02E9C06DAA}|WebApplication1\\Products.csproj|f:\\ms .net\\.net\\productmanagement\\webapplication1\\views\\product\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E702F9CD-5070-4113-8777-5B02E9C06DAA}|WebApplication1\\Products.csproj|solutionrelative:webapplication1\\views\\product\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E702F9CD-5070-4113-8777-5B02E9C06DAA}|WebApplication1\\Products.csproj|f:\\ms .net\\.net\\productmanagement\\webapplication1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E702F9CD-5070-4113-8777-5B02E9C06DAA}|WebApplication1\\Products.csproj|solutionrelative:webapplication1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E702F9CD-5070-4113-8777-5B02E9C06DAA}|WebApplication1\\Products.csproj|f:\\ms .net\\.net\\productmanagement\\webapplication1\\repositories\\idbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E702F9CD-5070-4113-8777-5B02E9C06DAA}|WebApplication1\\Products.csproj|solutionrelative:webapplication1\\repositories\\idbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E702F9CD-5070-4113-8777-5B02E9C06DAA}|WebApplication1\\Products.csproj|f:\\ms .net\\.net\\productmanagement\\webapplication1\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E702F9CD-5070-4113-8777-5B02E9C06DAA}|WebApplication1\\Products.csproj|solutionrelative:webapplication1\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E702F9CD-5070-4113-8777-5B02E9C06DAA}|WebApplication1\\Products.csproj|f:\\ms .net\\.net\\productmanagement\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E702F9CD-5070-4113-8777-5B02E9C06DAA}|WebApplication1\\Products.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E702F9CD-5070-4113-8777-5B02E9C06DAA}|WebApplication1\\Products.csproj|f:\\ms .net\\.net\\productmanagement\\webapplication1\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -39,32 +55,84 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProductById.cshtml",
+              "DocumentMoniker": "F:\\MS .NET\\.NET\\ProductManagement\\WebApplication1\\Views\\Product\\ProductById.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Product\\ProductById.cshtml",
+              "ToolTip": "F:\\MS .NET\\.NET\\ProductManagement\\WebApplication1\\Views\\Product\\ProductById.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Product\\ProductById.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-06T16:33:59.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "F:\\MS .NET\\.NET\\ProductManagement\\WebApplication1\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Product.cs",
+              "ToolTip": "F:\\MS .NET\\.NET\\ProductManagement\\WebApplication1\\Models\\Product.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Product.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T13:19:44.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDBManager.cs",
+              "DocumentMoniker": "F:\\MS .NET\\.NET\\ProductManagement\\WebApplication1\\Repositories\\IDBManager.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repositories\\IDBManager.cs",
+              "ToolTip": "F:\\MS .NET\\.NET\\ProductManagement\\WebApplication1\\Repositories\\IDBManager.cs",
+              "RelativeToolTip": "WebApplication1\\Repositories\\IDBManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T12:48:09.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Products.cshtml",
+              "DocumentMoniker": "F:\\MS .NET\\.NET\\ProductManagement\\WebApplication1\\Views\\Product\\Products.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Product\\Products.cshtml",
+              "ToolTip": "F:\\MS .NET\\.NET\\ProductManagement\\WebApplication1\\Views\\Product\\Products.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Product\\Products.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-06T12:12:45.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "CollectionContext.cs",
               "DocumentMoniker": "F:\\MS .NET\\.NET\\ProductManagement\\WebApplication1\\Repositories\\CollectionContext.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Repositories\\CollectionContext.cs",
               "ToolTip": "F:\\MS .NET\\.NET\\ProductManagement\\WebApplication1\\Repositories\\CollectionContext.cs",
               "RelativeToolTip": "WebApplication1\\Repositories\\CollectionContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-05T21:07:49.724Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "DBManager.cs",
               "DocumentMoniker": "F:\\MS .NET\\.NET\\ProductManagement\\WebApplication1\\Repositories\\DBManager.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Repositories\\DBManager.cs",
               "ToolTip": "F:\\MS .NET\\.NET\\ProductManagement\\WebApplication1\\Repositories\\DBManager.cs",
               "RelativeToolTip": "WebApplication1\\Repositories\\DBManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAABAvRwAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-05T21:07:48.653Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "F:\\MS .NET\\.NET\\ProductManagement\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
@@ -72,12 +140,11 @@
               "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAABMAAAAgMzMzMzMrwCgAAAB5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-05T21:04:15.653Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-05T21:04:15.653Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Update.cshtml",
               "DocumentMoniker": "F:\\MS .NET\\.NET\\ProductManagement\\WebApplication1\\Views\\Product\\Update.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Product\\Update.cshtml",
@@ -85,12 +152,11 @@
               "RelativeToolTip": "WebApplication1\\Views\\Product\\Update.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-05T21:00:55.964Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-05T21:00:55.964Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "F:\\MS .NET\\.NET\\ProductManagement\\WebApplication1\\Views\\Product\\Delete.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Product\\Delete.cshtml",
@@ -103,13 +169,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "ProductController.cs",
               "DocumentMoniker": "F:\\MS .NET\\.NET\\ProductManagement\\WebApplication1\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ProductController.cs",
               "ToolTip": "F:\\MS .NET\\.NET\\ProductManagement\\WebApplication1\\Controllers\\ProductController.cs",
               "RelativeToolTip": "WebApplication1\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAABwAAACAZWZmZmYSwDEAAAARAAAA",
+              "ViewState": "AQIAABoAAABgZmZmZmYowCMAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-05T20:58:35.211Z",
               "EditorCaption": ""
