@@ -2310,11 +2310,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\MS .NET\\StudentSolution\\StudentManagementSystem\\StudentManagementSystem.csproj",
+      "projectUniqueName": "F:\\MS .NET\\.NET\\StudentSolution\\StudentManagementSystem\\StudentManagementSystem.csproj",
       "projectName": "StudentManagementSystem",
-      "projectPath": "F:\\MS .NET\\StudentSolution\\StudentManagementSystem\\StudentManagementSystem.csproj",
+      "projectPath": "F:\\MS .NET\\.NET\\StudentSolution\\StudentManagementSystem\\StudentManagementSystem.csproj",
       "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-      "outputPath": "F:\\MS .NET\\StudentSolution\\StudentManagementSystem\\obj\\",
+      "outputPath": "F:\\MS .NET\\.NET\\StudentSolution\\StudentManagementSystem\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",

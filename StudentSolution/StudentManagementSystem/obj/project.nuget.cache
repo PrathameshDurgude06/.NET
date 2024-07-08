@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ACbfy2+jUAE=",
+  "dgSpecHash": "seDTumkcq3k=",
   "success": true,
-  "projectFilePath": "F:\\MS .NET\\StudentSolution\\StudentManagementSystem\\StudentManagementSystem.csproj",
+  "projectFilePath": "F:\\MS .NET\\.NET\\StudentSolution\\StudentManagementSystem\\StudentManagementSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hp\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Hp\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

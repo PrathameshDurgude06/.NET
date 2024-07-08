@@ -60,7 +60,7 @@
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Product\\ProductById.cshtml",
               "ToolTip": "F:\\MS .NET\\.NET\\ProductManagement\\WebApplication1\\Views\\Product\\ProductById.cshtml",
               "RelativeToolTip": "WebApplication1\\Views\\Product\\ProductById.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-06T16:33:59.663Z",
               "EditorCaption": ""
@@ -75,8 +75,7 @@
               "RelativeToolTip": "WebApplication1\\Models\\Product.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAA1wAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-06T13:19:44.389Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-06T13:19:44.389Z"
             },
             {
               "$type": "Document",
@@ -88,8 +87,7 @@
               "RelativeToolTip": "WebApplication1\\Repositories\\IDBManager.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-06T12:48:09.87Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-06T12:48:09.87Z"
             },
             {
               "$type": "Document",
@@ -101,8 +99,7 @@
               "RelativeToolTip": "WebApplication1\\Views\\Product\\Products.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-06T12:12:45.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-06T12:12:45.962Z"
             },
             {
               "$type": "Document",
@@ -114,8 +111,7 @@
               "RelativeToolTip": "WebApplication1\\Repositories\\CollectionContext.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T21:07:49.724Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-05T21:07:49.724Z"
             },
             {
               "$type": "Document",
@@ -127,8 +123,7 @@
               "RelativeToolTip": "WebApplication1\\Repositories\\DBManager.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAABAvRwAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T21:07:48.653Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-05T21:07:48.653Z"
             },
             {
               "$type": "Document",
@@ -164,8 +159,7 @@
               "RelativeToolTip": "WebApplication1\\Views\\Product\\Delete.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-05T21:00:39.849Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-05T21:00:39.849Z"
             },
             {
               "$type": "Document",
@@ -177,8 +171,7 @@
               "RelativeToolTip": "WebApplication1\\Controllers\\ProductController.cs",
               "ViewState": "AQIAABoAAABgZmZmZmYowCMAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T20:58:35.211Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-05T20:58:35.211Z"
             }
           ]
         }

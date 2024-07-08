@@ -4,7 +4,7 @@ namespace StudentManagementSystem.Repositories
 {
     public class ConnectionContext : DbContext
     {
-        private 
+      
         public ConnectionContext(DbContextOptions<ConnectionContext>options):base(options)
         {
            

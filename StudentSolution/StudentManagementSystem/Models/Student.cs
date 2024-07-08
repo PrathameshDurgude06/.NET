@@ -36,11 +36,11 @@ namespace StudentManagementSystem.Models
         [Required]
         public String Status { get; set; }
 
-        public Studnet(){
+        public Student(){
 
         }
 
-        public Studnet(int stubent_Id, string stubent_Name, string stubent_Email, string mobile_Number, string student_Address, DateTime admission_date, double fees, string status)
+        public Student(int stubent_Id, string stubent_Name, string stubent_Email, string mobile_Number, string student_Address, DateTime admission_date, double fees, string status)
         {
             Stubent_Id = stubent_Id;
             Stubent_Name = stubent_Name;

@@ -1,8 +1,8 @@
 ﻿using StudentManagementSystem.Models;
 namespace StudentManagementSystem.Sevices
 {
-    public interface IStudenService
+    public interface IStudentService
     {
-        void Insert(Student dept);
+        void Insert(Student stud);
     }
 }
