@@ -1,0 +1,28 @@
+﻿@using BOL;
+@using System.Collections.Generic;
+@{
+    List<Student> students = (List<Student>)ViewData["catalog"];
+    <h1>Student List</h1>
+    {
+        <ol>
+            @{
+                foreach (Student student in students)
+                {
+                    <li>
+                        @student.Student_id
+                        @student.Email
+                        @student.Student_Name
+                        @student.Mobile_No;
+                        @student.Address;
+                        @student.Admission_date;
+                        @student.Fees;
+                        @student.Status;
+
+                    </li>
+                }
+
+            }
+        </ol>
+
+    }
+}
